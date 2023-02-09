@@ -1,0 +1,13 @@
+baseURL = 'https://ZacharySantamaria.github.io/'
+languageCode = 'en-us'
+title = 'The technical adventures of Zachary Santamaria'
+theme = 'm10c'
+
+[params]
+    author = 'Zachary Santamaria'
+    Description = 'Writing about my experiences in tech.'
+
+    [[params.social]]
+        icon = 'github'
+        name = 'Github'
+        url = 'https://github.com/ZacharySantamaria'
