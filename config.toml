@@ -1,11 +1,25 @@
 baseURL = 'https://ZacharySantamaria.github.io/'
 languageCode = 'en-us'
-title = 'The technical adventures of Zachary Santamaria'
+title = 'Zachary Santamaria Blog'
 theme = 'm10c'
+
+[menu]
+    [[menu.main]]
+    identifer = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+    [[menu.main]]
+    identifer = 'about'
+    name = 'About'
+    weight = 2
 
 [params]
     author = 'Zachary Santamaria'
     Description = 'Writing about my experiences in tech.'
+    avatar = './resources/images/cover.png'
+    menu-item-separator = ' - '
 
     [[params.social]]
         icon = 'github'
