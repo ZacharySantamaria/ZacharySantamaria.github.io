@@ -2,6 +2,7 @@ baseURL: ZacharySantamaria.github.io
 languageCode: en-us
 title: Zachary Santamaria
 theme: mini
+paginate: 3
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
 defaultContentLanguage: en
