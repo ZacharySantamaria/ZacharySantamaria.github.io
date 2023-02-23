@@ -50,6 +50,7 @@ params:
   bio: Software Engineer
   # Site Description, used in HTML meat
   description: My Blog
+  # Adding comment but need to make an account to have this associated
   enableComments: true
 
 
