@@ -1,8 +1,10 @@
----
-title: "My First Post"
-date: 2023-02-11T01:41:58-06:00
-draft: false
----
++++
+author = "Zachary Santamaria"
+title = "My First Post"
+date = "2023-02-11"
+description = "Testing a page"
+draft = false
++++
 
 ## Introduction
 Just checking if this code works. If it does it allows me to create so many new projects eventually.
