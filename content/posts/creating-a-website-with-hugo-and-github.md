@@ -1,6 +1,8 @@
 ---
-title: "Creating a Website With Hugo and Github"
-date: 2023-02-15T00:12:51-06:00
+author: Zachary Santamaria
+title: Creating a Website With Hugo and Github
+date: 2023-03-07T19:25:44-06:00
+description: Creating your own blog page
 draft: true
 ---
 

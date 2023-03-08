@@ -1,0 +1,5 @@
+baseURL = "ZacharySantamaria.github.io"
+languageCode = "en-us"
+title = "Zachary Santamaria's Blog website"
+DefaultContentLanguage = "en"
+theme = "diary"
