@@ -24,6 +24,7 @@ googleAnalytics = "UA-260898949-2"
 subtitle = "Adventures in tech"
 enableGitalk = false
 enableGiscus = true
+googleSearchCode = '059e534c6b55c4832'
 
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
