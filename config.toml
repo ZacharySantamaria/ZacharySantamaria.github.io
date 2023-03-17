@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Zachary Santamaria's Blog"
 DefaultContentLanguage = "en"
 theme = "diary"
+googleAnalytics = "G-K8REZDR1J5"
 
 
   
